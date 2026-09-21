@@ -1,0 +1,75 @@
+Portfolio_ID,Client_ID,Client_Name,Portfolio_Name,Base_Currency,Total_Market_Value_USD_M,Cost_Basis_USD_M,Unrealized_PnL_USD_M,Benchmark,Number_of_Holdings,Top_Holding_Weight_Pct,Top_5_Holdings_Weight_Pct
+P-101,CLT-1001,Northstar Pension Fund,Core Global Multi-Asset Account,USD,606.63,529.67,76.96,Bloomberg Global Aggregate,7,36.74,95.81
+P-102,CLT-1001,Northstar Pension Fund,Sovereign Fixed Income & Liquidity Account,USD,3891.21,4051.42,-160.21,Bloomberg Global Aggregate,6,58.86,99.65
+P-103,CLT-1001,Northstar Pension Fund,Active Equity Alpha Strategy Account,USD,1702.17,1543.75,158.42,S&P 500,6,30.4,95.17
+P-104,CLT-1002,Meridian Asset Management,Core Global Multi-Asset Account,GBP,1906.15,1649.25,256.89,MSCI World,9,24.5,83.63
+P-105,CLT-1002,Meridian Asset Management,Sovereign Fixed Income & Liquidity Account,GBP,2760.0,2494.69,265.31,Bloomberg Global Aggregate,12,24.52,84.03
+P-106,CLT-1003,Apex Insurance Group,Core Global Multi-Asset Account,USD,2520.22,2385.52,134.7,Bloomberg Global Aggregate,8,25.29,91.15
+P-107,CLT-1003,Apex Insurance Group,Sovereign Fixed Income & Liquidity Account,USD,866.66,804.63,62.03,Bloomberg Global Aggregate,8,38.64,84.83
+P-108,CLT-1003,Apex Insurance Group,Active Equity Alpha Strategy Account,USD,1703.21,1622.87,80.34,S&P 500,11,31.9,78.0
+P-109,CLT-1003,Apex Insurance Group,Strategic Collateral & Yield Account,USD,1835.71,1623.81,211.9,Bloomberg Global Aggregate,9,41.07,86.82
+P-110,CLT-1003,Apex Insurance Group,Tactical Overlay & Treasury Account,USD,474.2,470.78,3.41,Crisil Liquid / MMF,9,21.29,74.58
+P-111,CLT-1004,Horizon University Endowment,Core Global Multi-Asset Account,USD,1950.0,1793.38,156.62,MSCI World,8,28.35,95.18
+P-112,CLT-1005,Atlas Sovereign Fund,Core Global Multi-Asset Account,USD,6463.75,6334.89,128.86,Bloomberg Global Aggregate,12,20.33,78.23
+P-113,CLT-1005,Atlas Sovereign Fund,Sovereign Fixed Income & Liquidity Account,USD,778.33,780.26,-1.93,Bloomberg Global Aggregate,6,43.32,97.77
+P-114,CLT-1005,Atlas Sovereign Fund,Active Equity Alpha Strategy Account,USD,1433.98,1448.45,-14.47,MSCI World,10,31.88,86.77
+P-115,CLT-1005,Atlas Sovereign Fund,Strategic Collateral & Yield Account,USD,3823.94,3373.5,450.44,Bloomberg Global Aggregate,8,33.71,89.61
+P-116,CLT-1006,BlueRiver Capital,Core Global Multi-Asset Account,SGD,791.33,740.04,51.29,MSCI World,13,32.12,79.35
+P-117,CLT-1006,BlueRiver Capital,Sovereign Fixed Income & Liquidity Account,SGD,88.72,85.13,3.59,Bloomberg Global Aggregate,6,35.17,98.15
+P-118,CLT-1006,BlueRiver Capital,Active Equity Alpha Strategy Account,SGD,2219.96,2026.69,193.27,MSCI World,11,19.4,81.83
+P-119,CLT-1007,Sterling Retirement Trust,Core Global Multi-Asset Account,GBP,797.55,756.94,40.61,Bloomberg Global Aggregate,11,25.14,80.41
+P-120,CLT-1007,Sterling Retirement Trust,Sovereign Fixed Income & Liquidity Account,GBP,4502.45,4169.23,333.22,Bloomberg Global Aggregate,9,18.79,84.16
+P-121,CLT-1008,Nova Family Office,Core Global Multi-Asset Account,EUR,506.33,453.85,52.48,MSCI World,7,48.79,97.93
+P-122,CLT-1008,Nova Family Office,Sovereign Fixed Income & Liquidity Account,EUR,343.67,316.63,27.04,Bloomberg Global Aggregate,12,19.53,69.61
+P-123,CLT-1009,Summit Foundation,Core Global Multi-Asset Account,USD,639.82,551.11,88.71,Bloomberg Global Aggregate,8,36.25,89.5
+P-124,CLT-1009,Summit Foundation,Sovereign Fixed Income & Liquidity Account,USD,501.47,522.16,-20.69,Bloomberg Global Aggregate,10,34.64,82.26
+P-125,CLT-1009,Summit Foundation,Active Equity Alpha Strategy Account,USD,58.71,54.5,4.21,S&P 500,9,19.06,83.45
+P-126,CLT-1010,Orion Investment Partners,Core Global Multi-Asset Account,USD,424.66,402.57,22.09,MSCI World,12,29.21,76.04
+P-127,CLT-1010,Orion Investment Partners,Sovereign Fixed Income & Liquidity Account,USD,592.1,585.08,7.02,Bloomberg Global Aggregate,13,15.04,57.72
+P-128,CLT-1010,Orion Investment Partners,Active Equity Alpha Strategy Account,USD,2319.16,2073.42,245.74,S&P 500,8,35.01,91.31
+P-129,CLT-1010,Orion Investment Partners,Strategic Collateral & Yield Account,USD,464.08,455.24,8.84,Bloomberg Global Aggregate,11,25.26,82.0
+P-130,CLT-1011,Bharat Infrastructure Trust,Core Global Multi-Asset Account,INR,3847.99,3895.74,-47.75,Bloomberg Global Aggregate,11,33.19,74.85
+P-131,CLT-1011,Bharat Infrastructure Trust,Sovereign Fixed Income & Liquidity Account,INR,352.01,355.41,-3.4,Bloomberg Global Aggregate,9,43.44,93.82
+P-132,CLT-1012,Pacific Rim Life Insurance,Core Global Multi-Asset Account,JPY,2050.47,1983.08,67.39,Bloomberg Global Aggregate,12,34.03,83.58
+P-133,CLT-1012,Pacific Rim Life Insurance,Sovereign Fixed Income & Liquidity Account,JPY,3226.67,2955.72,270.95,Bloomberg Global Aggregate,8,32.38,85.57
+P-134,CLT-1012,Pacific Rim Life Insurance,Active Equity Alpha Strategy Account,JPY,2777.72,2582.78,194.94,MSCI World,7,21.58,88.96
+P-135,CLT-1012,Pacific Rim Life Insurance,Strategic Collateral & Yield Account,JPY,845.14,751.68,93.46,Bloomberg Global Aggregate,8,35.12,96.54
+P-136,CLT-1013,Tokyo Global Reinsurance,Core Global Multi-Asset Account,JPY,1382.39,1237.31,145.08,Bloomberg Global Aggregate,7,34.83,98.09
+P-137,CLT-1013,Tokyo Global Reinsurance,Sovereign Fixed Income & Liquidity Account,JPY,792.7,798.05,-5.35,Bloomberg Global Aggregate,11,26.83,90.33
+P-138,CLT-1013,Tokyo Global Reinsurance,Active Equity Alpha Strategy Account,JPY,1663.2,1670.62,-7.42,MSCI World,13,27.12,67.11
+P-139,CLT-1013,Tokyo Global Reinsurance,Strategic Collateral & Yield Account,JPY,988.98,928.55,60.42,Bloomberg Global Aggregate,10,20.14,76.25
+P-140,CLT-1013,Tokyo Global Reinsurance,Tactical Overlay & Treasury Account,JPY,1272.73,1236.2,36.53,Crisil Liquid / MMF,9,24.14,92.1
+P-141,CLT-1014,Rhine Corporate Treasury,Core Global Multi-Asset Account,EUR,1441.25,1328.53,112.72,Bloomberg Global Aggregate,9,20.44,83.9
+P-142,CLT-1014,Rhine Corporate Treasury,Sovereign Fixed Income & Liquidity Account,EUR,858.22,891.95,-33.73,Bloomberg Global Aggregate,12,24.08,82.78
+P-143,CLT-1014,Rhine Corporate Treasury,Active Equity Alpha Strategy Account,EUR,500.53,448.16,52.37,MSCI World,12,24.67,83.48
+P-144,CLT-1015,Nordic Municipal Pension,Core Global Multi-Asset Account,EUR,974.3,947.14,27.16,Bloomberg Global Aggregate,7,38.78,96.04
+P-145,CLT-1015,Nordic Municipal Pension,Sovereign Fixed Income & Liquidity Account,EUR,530.46,509.95,20.51,Bloomberg Global Aggregate,7,34.82,91.43
+P-146,CLT-1015,Nordic Municipal Pension,Active Equity Alpha Strategy Account,EUR,358.27,339.74,18.53,MSCI World,12,24.6,86.68
+P-147,CLT-1015,Nordic Municipal Pension,Strategic Collateral & Yield Account,EUR,1536.97,1488.61,48.36,Bloomberg Global Aggregate,11,22.82,73.75
+P-148,CLT-1016,Vanguard Heritage Trust,Core Global Multi-Asset Account,USD,1450.0,1353.71,96.29,Bloomberg Global Aggregate,8,40.81,94.15
+P-149,CLT-1017,Ganges Commercial Treasury,Core Global Multi-Asset Account,INR,1127.97,1117.57,10.4,Bloomberg Global Aggregate,11,16.95,67.14
+P-150,CLT-1017,Ganges Commercial Treasury,Sovereign Fixed Income & Liquidity Account,INR,723.26,715.77,7.49,Bloomberg Global Aggregate,6,64.79,99.6
+P-151,CLT-1017,Ganges Commercial Treasury,Active Equity Alpha Strategy Account,INR,348.77,335.4,13.37,NIFTY 50,9,34.69,86.21
+P-152,CLT-1018,Southern Cross Superannuation,Core Global Multi-Asset Account,USD,649.94,581.02,68.91,Bloomberg Global Aggregate,11,22.86,77.56
+P-153,CLT-1018,Southern Cross Superannuation,Sovereign Fixed Income & Liquidity Account,USD,544.57,551.15,-6.58,Bloomberg Global Aggregate,10,20.95,68.93
+P-154,CLT-1018,Southern Cross Superannuation,Active Equity Alpha Strategy Account,USD,2655.23,2292.65,362.58,MSCI World,9,30.95,91.73
+P-155,CLT-1018,Southern Cross Superannuation,Strategic Collateral & Yield Account,USD,1850.26,1837.52,12.74,Bloomberg Global Aggregate,9,31.53,81.55
+P-156,CLT-1019,Helvetia Private Wealth,Core Global Multi-Asset Account,EUR,138.63,130.4,8.23,MSCI World,12,28.58,81.73
+P-157,CLT-1019,Helvetia Private Wealth,Sovereign Fixed Income & Liquidity Account,EUR,267.08,237.67,29.41,Bloomberg Global Aggregate,11,35.25,84.8
+P-158,CLT-1019,Helvetia Private Wealth,Active Equity Alpha Strategy Account,EUR,544.3,528.55,15.75,MSCI World,8,34.3,85.39
+P-159,CLT-1020,Mumbai Growth Equities Fund,Core Global Multi-Asset Account,INR,608.07,609.71,-1.64,MSCI World,10,26.47,87.35
+P-160,CLT-1020,Mumbai Growth Equities Fund,Sovereign Fixed Income & Liquidity Account,INR,1191.93,1140.9,51.03,Bloomberg Global Aggregate,10,20.5,75.23
+P-161,CLT-1021,Oasis National Reserve,Core Global Multi-Asset Account,USD,265.29,252.36,12.93,Bloomberg Global Aggregate,12,32.64,73.59
+P-162,CLT-1021,Oasis National Reserve,Sovereign Fixed Income & Liquidity Account,USD,2065.21,1999.02,66.19,Bloomberg Global Aggregate,10,25.24,76.32
+P-163,CLT-1021,Oasis National Reserve,Active Equity Alpha Strategy Account,USD,8869.5,8929.99,-60.49,MSCI World,6,35.15,96.49
+P-164,CLT-1022,Emerald Medical Foundation,Core Global Multi-Asset Account,EUR,108.9,87.35,21.55,Bloomberg Global Aggregate,6,48.17,94.44
+P-165,CLT-1022,Emerald Medical Foundation,Sovereign Fixed Income & Liquidity Account,EUR,56.68,58.1,-1.42,Bloomberg Global Aggregate,6,59.28,97.82
+P-166,CLT-1022,Emerald Medical Foundation,Active Equity Alpha Strategy Account,EUR,554.43,498.26,56.17,MSCI World,8,31.84,92.71
+P-167,CLT-1023,Silicon Valley Tech Treasury,Core Global Multi-Asset Account,USD,166.37,148.03,18.34,MSCI World,11,22.03,71.77
+P-168,CLT-1023,Silicon Valley Tech Treasury,Sovereign Fixed Income & Liquidity Account,USD,980.62,928.98,51.64,Bloomberg Global Aggregate,9,25.09,87.58
+P-169,CLT-1023,Silicon Valley Tech Treasury,Active Equity Alpha Strategy Account,USD,2353.0,2073.41,279.59,S&P 500,11,31.36,78.28
+P-170,CLT-1024,Kyoto Endowment Fund,Core Global Multi-Asset Account,JPY,539.95,537.7,2.25,Bloomberg Global Aggregate,9,27.44,87.46
+P-171,CLT-1024,Kyoto Endowment Fund,Sovereign Fixed Income & Liquidity Account,JPY,1019.68,982.58,37.1,Bloomberg Global Aggregate,8,31.56,91.22
+P-172,CLT-1024,Kyoto Endowment Fund,Active Equity Alpha Strategy Account,JPY,40.36,37.52,2.84,MSCI World,8,26.92,78.89
+P-173,CLT-1025,Equator Multi-Asset Partners,Core Global Multi-Asset Account,SGD,273.26,290.71,-17.46,MSCI World,12,22.65,70.33
+P-174,CLT-1025,Equator Multi-Asset Partners,Sovereign Fixed Income & Liquidity Account,SGD,2376.74,2354.74,22.0,Bloomberg Global Aggregate,11,20.75,80.39
