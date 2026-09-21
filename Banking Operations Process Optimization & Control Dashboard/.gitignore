@@ -1,0 +1,15 @@
+.env
+frontend/.env
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+node_modules/
+dist/
+database/*.db
+.DS_Store
+Thumbs.db
+*.log
+.idea/
+.vscode/
